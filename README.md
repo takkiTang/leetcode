@@ -1,7 +1,8 @@
 # leetcode
 
 
-### Linked List
+### 链表
 
-[206. Reverse Linked List](/LinkedList/206.js)
-[24. Swap Nodes in Pairs](/LinkedList/24.js)
+[206. 反转链表](/LinkedList/206.js)
+[24. 两两交换链表中的节点](/LinkedList/24.js)
+[141. 环形链表](/LinkedList/141.js)
