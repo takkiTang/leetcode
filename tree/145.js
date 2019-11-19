@@ -9,21 +9,20 @@
  * @param {TreeNode} root
  * @return {number[]}
  */
-var postorderTraversal = function(root) {
-    if(!root){
+var postorderTraversal = function (root) {
+    if (!root) {
         return []
     }
     let res = []
     let stack = []
-    let cur
     stack.push(root)
-    while(stack.length){
-        cur = stack.pop()
+    while (stack.length) {
+        let cur = stack.pop()
         res.push(cur.val)
-        if(cur.left){
+        if (cur.left) {
             stack.push(cur.left)
         }
-        if(cur.right){
+        if (cur.right) {
             stack.push(cur.right)
         }
     }
