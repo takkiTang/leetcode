@@ -3,7 +3,7 @@
 
 ### 链表
 
-- [206.反转链表](/LinkedList/206.js)
+- [206.反转链表](/LinkedList/206.md)
 - [92. 反转链表 II](/LinkedList/92.js)
 - [24.两两交换链表中的节点](/LinkedList/24.js)
 - [234. 回文链表](/LinkedList/234.js)
