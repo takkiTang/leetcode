@@ -99,3 +99,5 @@
 ### 回溯算法
 - [46.全排列](/backtrack/‎46.md)
 - [51. N皇后](/backtrack/‎51.md)
+- [39.组合总和](/backtrack/39.md)
+- [40. 组合总和 II](/backtrack/40.md)
